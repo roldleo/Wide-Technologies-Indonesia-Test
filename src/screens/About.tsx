@@ -35,7 +35,7 @@ const About: React.FC = () => {
                                 </li>
                                 <li>
                                     Terdapat validasi untuk memastikan:
-                                    <ul className="list-decimal list-inside space-y-1">
+                                    <ul className="list-disc list-inside space-y-1 ps-4">
                                         <li>
                                             <strong>Email</strong> yang dimasukkan adalah alamat email yang valid.
                                         </li>
