@@ -50,7 +50,7 @@ const About: React.FC = () => {
                                         </li>
                                     </ul>
                                 </li>
-                                <li>Setelah validasi berhasil, data akan dikirim dan form akan mereset nilai-nilai input.</li>
+                                <li>Setelah validasi berhasil, data siap dikirim dan form akan mereset nilai-nilai input.</li>
                             </ul>
                         </li>
                         <li>
